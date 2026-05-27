@@ -1,2 +1,23 @@
-# half_adder_verilog
-This contains a simple verilog code for half adder.
+# Half Adder using Verilog
+
+Refreshing my Verilog Basics!!
+
+## Inputs
+ -A
+ -B
+
+## Outputs
+- Sum
+- Carry
+
+## Logic
+- Sum = A XOR B
+- Carry = A AND B
+
+## Tools Used
+- EDA Playground
+- Icarus Verilog
+- EPWave
+
+## Author
+Jesna Mary Mathews
