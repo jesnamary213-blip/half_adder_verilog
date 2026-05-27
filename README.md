@@ -19,5 +19,9 @@ Refreshing my Verilog Basics!!
 - Icarus Verilog
 - EPWave
 
+## Waveform
+
+![Waveform](HA_waveform.png)
+
 ## Author
 Jesna Mary Mathews
